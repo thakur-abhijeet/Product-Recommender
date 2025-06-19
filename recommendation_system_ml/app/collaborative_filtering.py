@@ -6,7 +6,7 @@ from surprise.model_selection import train_test_split, cross_validate
 
 
 class CollaborativeFilteringRecommender:
-    def __init__(self, model_path="model/collab_model.pkl"):
+    def __init__(self, model_path="../model/collab_model.pkl"):
         self.model = None
         self.model_path = model_path
         self.reader = Reader(rating_scale=(0, 5))
@@ -71,7 +71,7 @@ class CollaborativeFilteringRecommender:
 # For standalone execution or testing
 if __name__ == "__main__":
     # Example
-    df = pd.read_csv("data/user_ratings.csv")  # Ensure it contains: user_id, product_id, rating
+    df = pd.read_csv("../data/user_ratings.csv")  # Ensure it contains: user_id, product_id, rating
 
     recommender = CollaborativeFilteringRecommender()
     metrics = recommender.train(df)

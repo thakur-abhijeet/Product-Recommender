@@ -1,4 +1,3 @@
-
 import pandas as pd
 from collaborative_filtering import CollaborativeFilteringRecommender
 from content_based_filtering import ContentBasedRecommender
@@ -10,9 +9,9 @@ class HybridRecommender:
         self,
         weights={"cf": 0.4, "cbf": 0.4, "sentiment": 0.2},
         model_paths={
-            "cf": "model/collab_model.pkl",
-            "cbf": "model/content_model.pkl",
-            "sentiment": "model/sentiment_model.pkl",
+            "cf": "../model/collab_model.pkl",
+            "cbf": "../model/content_model.pkl",
+            "sentiment": "../model/sentiment_model.pkl",
         },
     ):
         self.cf_model = CollaborativeFilteringRecommender(model_path=model_paths["cf"])
@@ -72,8 +71,8 @@ class HybridRecommender:
 
 # For testing
 if __name__ == "__main__":
-    user_df = pd.read_csv("data/user_ratings.csv")     # Must contain: user_id, product_id, rating
-    product_df = pd.read_csv("data/products.csv")      # Must contain: product_id
+    user_df = pd.read_csv("../data/user_ratings.csv")     # Must contain: user_id, product_id, rating
+    product_df = pd.read_csv("../data/products.csv")      # Must contain: product_id
     user_id = user_df["user_id"].iloc[0]
 
     hybrid = HybridRecommender()

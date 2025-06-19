@@ -1,10 +1,9 @@
-
 import pandas as pd
 import random
 import uuid
 from faker import Faker
 
-fake = Faker("en_NP")
+fake = Faker("en_US")
 
 brands = ["Samsung", "LG", "TCL", "Baltra", "Lava", "Ultima", "Transsion"]
 categories = ["Smartphone", "TV", "Refrigerator", "Microwave", "Air Cooler", "Washing Machine"]
@@ -29,7 +28,7 @@ def gen_products(num=50):
         rating = round(random.uniform(2.5, 5.0), 1)
         rows.append([pid, title, br, cat, attrs, price, rating])
     df = pd.DataFrame(rows, columns=["product_id","title","brand","category","attributes","price","rating"])
-    df.to_csv("data/products.csv", index=False)
+    df.to_csv("~/Product-Recommender/recommendation_system_ml/data/products.csv", index=False)
 
 def gen_ratings(products, users=20):
     rows = []
@@ -39,7 +38,7 @@ def gen_ratings(products, users=20):
         for pid in sampled:
             r = round(random.uniform(1,5),1)
             rows.append([uid, pid, r])
-    pd.DataFrame(rows, columns=["user_id","product_id","rating"]).to_csv("data/user_ratings.csv", index=False)
+    pd.DataFrame(rows, columns=["user_id","product_id","rating"]).to_csv("~/Product-Recommender/recommendation_system_ml/data/user_ratings.csv", index=False)
 
 def gen_reviews(products, reviews_per=5):
     rows = []
@@ -47,13 +46,13 @@ def gen_reviews(products, reviews_per=5):
         for _ in range(reviews_per):
             text = fake.sentence(nb_words=12)
             rows.append([pid, text])
-    pd.DataFrame(rows, columns=["product_id","review_text"]).to_csv("data/reviews.csv", index=False)
+    pd.DataFrame(rows, columns=["product_id","review_text"]).to_csv("~/Product-Recommender/recommendation_system_ml/data/reviews.csv", index=False)
 
 if __name__ == "__main__":
     import os
     os.makedirs("data", exist_ok=True)
     gen_products()
-    prods = pd.read_csv("data/products.csv")
+    prods = pd.read_csv("~/Product-Recommender/recommendation_system_ml/data/products.csv")
     gen_ratings(prods)
     gen_reviews(prods)
     print("Sample data generated.")

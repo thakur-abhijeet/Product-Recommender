@@ -10,7 +10,7 @@ nltk.download("stopwords")
 from nltk.corpus import stopwords
 
 class ContentBasedRecommender:
-    def __init__(self, model_path="model/content_model.pkl"):
+    def __init__(self, model_path="../model/content_model.pkl"):
         self.vectorizer = TfidfVectorizer(
             stop_words="english", max_features=1000, ngram_range=(1, 2)
         )
@@ -78,7 +78,7 @@ class ContentBasedRecommender:
 
 # For testing / direct run
 if __name__ == "__main__":
-    df = pd.read_csv("data/products.csv")  # Requires: product_id, title, category, attributes
+    df = pd.read_csv("../data/products.csv")  # Requires: product_id, title, category, attributes
 
     recommender = ContentBasedRecommender()
     recommender.train(df)

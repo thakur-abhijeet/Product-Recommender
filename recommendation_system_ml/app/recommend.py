@@ -4,7 +4,7 @@ from hybrid_recommender import HybridRecommender
 
 class RecommenderAPI:
     def __init__(self):
-        self.ratings_df = pd.read_csv("data/user_ratings.csv")
+        self.ratings_df = pd.read_csv("../data/user_ratings.csv")
         self.hybrid = HybridRecommender()
 
     def recommend_for_user(self, user_id: str, top_n: int = 5):
