@@ -1,51 +1,501 @@
 product_id,title,brand,category,attributes,price,rating
-1bc87265,Transsion Washing Machine As,Transsion,Washing Machine,7kg Inverter,88289,4.0
-f1ded2d3,TCL TV Human,TCL,TV,HD LED,74791,3.8
-8f19e19c,Baltra Washing Machine Time,Baltra,Washing Machine,Inverter 7kg,86426,3.8
-006a3e79,Transsion Washing Machine Position,Transsion,Washing Machine,Inverter 7kg,40634,3.1
-6d82a96f,Ultima Air Cooler She,Ultima,Air Cooler,Remote Ice Chamber,86702,3.0
-a154aa97,TCL Microwave Want,TCL,Microwave,Solo Convection,14553,2.7
-82025e97,Baltra TV Pay,Baltra,TV,HD Smart TV,25955,4.8
-7f810e1f,TCL Refrigerator Hear,TCL,Refrigerator,Cooler 200L,78125,4.2
-ac29bfe9,Transsion Refrigerator Want,Transsion,Refrigerator,Energy Star 200L,94625,2.6
-af04f813,Lava Washing Machine Number,Lava,Washing Machine,Inverter Front Load,29963,4.8
-f9988430,LG Washing Machine Whether,LG,Washing Machine,7kg Front Load,68297,3.4
-21d8afd9,Samsung Microwave Far,Samsung,Microwave,700W Grill,72354,4.4
-db5907bc,Samsung TV No,Samsung,TV,LED Smart TV,71271,3.5
-cba0766b,Transsion Washing Machine Important,Transsion,Washing Machine,Inverter 7kg,75869,4.3
-e9b1dd86,Samsung Smartphone Movie,Samsung,Smartphone,4G 6GB RAM,75136,3.8
-acca5d1b,Lava Microwave North,Lava,Microwave,Grill 700W,72589,2.7
-b1c3d863,Baltra TV Whether,Baltra,TV,LED 32 inch,47395,5.0
-0822708f,Samsung Microwave While,Samsung,Microwave,Grill Solo,69042,3.7
-f539ad52,Ultima Refrigerator Even,Ultima,Refrigerator,Double Door Energy Star,98167,4.6
-580f0218,Samsung Air Cooler Each,Samsung,Air Cooler,Remote Ice Chamber,63064,2.6
-ffb9eca2,Ultima Microwave Property,Ultima,Microwave,700W Grill,71255,3.2
-20c93f7b,Ultima TV History,Ultima,TV,HD 32 inch,42684,2.7
-3d426705,Ultima Smartphone None,Ultima,Smartphone,6GB RAM 6.5-inch,92366,4.1
-54748579,Transsion TV Play,Transsion,TV,LED Smart TV,79260,4.9
-efa11c72,LG Washing Machine Wife,LG,Washing Machine,Inverter 7kg,56412,4.8
-2153edc3,Samsung Microwave Best,Samsung,Microwave,Solo 700W,70115,2.8
-c5c00048,Ultima Washing Machine Director,Ultima,Washing Machine,Front Load 7kg,83475,2.8
-ba16e2da,TCL TV Happen,TCL,TV,32 inch LED,89644,3.6
-55e67b8f,TCL Air Cooler West,TCL,Air Cooler,Remote Ice Chamber,74041,4.7
-e70757c4,TCL TV Case,TCL,TV,Smart TV 32 inch,79365,3.4
-45259a64,Baltra Microwave Catch,Baltra,Microwave,Convection Solo,14117,3.7
-0c7afabf,Samsung TV Risk,Samsung,TV,LED 32 inch,71214,3.3
-6dad7127,LG Air Cooler Artist,LG,Air Cooler,Remote 35L Tank,97372,5.0
-a055fd0b,LG TV You,LG,TV,32 inch LED,22523,4.7
-7682a59a,TCL Air Cooler Action,TCL,Air Cooler,Ice Chamber Remote,45121,4.2
-69c4cd6b,TCL Washing Machine Debate,TCL,Washing Machine,Front Load Inverter,40407,2.6
-de56fe3a,Ultima Refrigerator Step,Ultima,Refrigerator,Double Door Cooler,28973,2.7
-540955f9,Ultima Air Cooler Improve,Ultima,Air Cooler,Remote Ice Chamber,73620,2.8
-6248a372,LG Refrigerator Consider,LG,Refrigerator,Double Door 200L,13058,2.9
-17120238,Transsion Refrigerator Seem,Transsion,Refrigerator,Double Door Cooler,94430,2.6
-bea9b86d,Ultima TV Enter,Ultima,TV,Smart TV LED,88008,4.7
-941f1e5c,LG Smartphone Have,LG,Smartphone,128GB Dual SIM,43213,3.2
-785a12fa,Ultima Smartphone Be,Ultima,Smartphone,6.5-inch 6GB RAM,50854,3.0
-38ce9ed4,Ultima Microwave Sure,Ultima,Microwave,Convection Grill,39481,4.0
-48ea49a5,Transsion Washing Machine True,Transsion,Washing Machine,7kg Front Load,13474,3.6
-98ead316,Baltra Air Cooler Account,Baltra,Air Cooler,35L Tank Remote,41367,3.0
-78e66832,Samsung Smartphone But,Samsung,Smartphone,4G 128GB,67911,4.5
-984601c5,Ultima Air Cooler Tell,Ultima,Air Cooler,Ice Chamber Remote,26876,4.6
-895aef7e,Ultima Washing Machine Message,Ultima,Washing Machine,Inverter Front Load,94264,3.9
-fc6019bc,Baltra Refrigerator Wonder,Baltra,Refrigerator,Cooler Double Door,73420,3.5
+cbec7ee1,Baltra TV Several,Baltra,TV,Smart TV 32 inch,91856,3.9
+9977b253,LG Chimney Perhaps,LG,Chimney,Island Gesture-control,61958,5.0
+7c0ec156,Lava Microwave Film,Lava,Microwave,Grill Convection,33783,4.5
+7a56fc2c,Baltra Chimney Himself,Baltra,Chimney,Gesture-control Auto-CLean,30973,3.1
+8c51e689,Midea Air Conditioner Painting,Midea,Air Conditioner,Non-Inverter 1-ton,42076,4.4
+1c48b51c,LG TV Important,LG,TV,HD Smart TV,60301,4.9
+bcb3d140,Midea Chimney Affect,Midea,Chimney,Auto-CLean Gesture-control,48678,3.5
+9eb60fd3,Lava Air Cooler Pattern,Lava,Air Cooler,Ice Chamber Remote,81795,4.9
+d9d7260f,Faber Refrigerator Step,Faber,Refrigerator,Cooler 200L,21126,4.8
+f57a2ec0,Ultima Chimney Especially,Ultima,Chimney,Island Auto-CLean,40751,4.3
+708df4d4,Ultima Chimney Establish,Ultima,Chimney,Gesture-control Auto-CLean,46138,4.3
+213eb44d,Faber Microwave Give,Faber,Microwave,Convection Solo,13217,4.9
+a1be68d2,Lava Air Conditioner Meet,Lava,Air Conditioner,1-ton 2-ton,53690,3.6
+30bfc186,Lava TV Then,Lava,TV,Smart TV HD,83095,2.9
+f9eeae8c,LG Washing Machine Ask,LG,Washing Machine,Front Load 7kg,27876,2.7
+3c50338b,TCL Chimney Now,TCL,Chimney,Island Auto-CLean,15800,3.4
+a5e9d090,Faber Chimney Thought,Faber,Chimney,Gesture-control Auto-CLean,40990,3.7
+c2f45c82,Baltra Air Cooler Relate,Baltra,Air Cooler,35L Tank Ice Chamber,21925,3.2
+98667158,TCL TV Clear,TCL,TV,HD LED,27424,3.0
+0584cb41,Ultima Cooktop Instead,Ultima,Cooktop,CopperBurner floating,91758,3.8
+0647d20e,Transsion Chimney Car,Transsion,Chimney,Auto-CLean Gesture-control,31052,3.8
+530cbd9c,Faber Microwave Plan,Faber,Microwave,Grill 700W,76560,3.7
+1ecd183f,Baltra Air Conditioner Town,Baltra,Air Conditioner,2-ton Non-Inverter,47038,3.7
+3ccda57b,Transsion Refrigerator Its,Transsion,Refrigerator,Cooler 200L,32164,4.9
+7f393c30,Faber Cooktop Certainly,Faber,Cooktop,Matte floating,33819,3.5
+b38f357a,Samsung Chimney Fine,Samsung,Chimney,Island Gesture-control,90643,3.5
+36d91e0a,Transsion Air Cooler Feeling,Transsion,Air Cooler,35L Tank Ice Chamber,15816,4.3
+3ce53812,Pigeon Washing Machine By,Pigeon,Washing Machine,7kg Inverter,27035,4.8
+dfdc849d,LG TV Education,LG,TV,LED 32 inch,83452,4.0
+fdc7379d,Samsung Air Conditioner Trip,Samsung,Air Conditioner,2-ton 1-ton,54760,4.2
+d750e115,Transsion Air Conditioner Between,Transsion,Air Conditioner,1-ton Non-Inverter,77762,4.0
+5ca88dd3,Baltra Washing Machine Want,Baltra,Washing Machine,Front Load Inverter,68125,4.8
+57e56794,Transsion Smartphone Us,Transsion,Smartphone,4G 6.5-inch,77316,4.0
+e3b2ee45,TCL Refrigerator Term,TCL,Refrigerator,Cooler 200L,96828,3.5
+bc0c3c51,Pigeon Cooktop Career,Pigeon,Cooktop,floating Matte,26256,3.8
+8e6bc9df,LG Chimney Note,LG,Chimney,Auto-CLean Island,87830,3.2
+23e0e85c,Lava Washing Machine Man,Lava,Washing Machine,Inverter Front Load,17144,3.2
+72269b78,Transsion Washing Machine Indicate,Transsion,Washing Machine,Front Load 7kg,24733,2.9
+085b8d9b,Ultima Cooktop Four,Ultima,Cooktop,Matte CopperBurner,74779,3.1
+b3ddac77,TCL Air Cooler Artist,TCL,Air Cooler,35L Tank Remote,27390,3.0
+2f4f7819,LG Smartphone Than,LG,Smartphone,6GB RAM 128GB,79313,4.5
+96e255ed,Samsung Smartphone Avoid,Samsung,Smartphone,4G Dual SIM,61041,4.9
+6a1658a1,Midea Smartphone Guy,Midea,Smartphone,128GB 6GB RAM,64048,3.7
+48a586ef,Midea Washing Machine Organization,Midea,Washing Machine,Front Load 7kg,81624,3.1
+52c80218,TCL Refrigerator Television,TCL,Refrigerator,Cooler Energy Star,29511,3.0
+0dbb70eb,Transsion Chimney Situation,Transsion,Chimney,Island Gesture-control,69490,4.6
+3f91d5ed,LG Smartphone Reflect,LG,Smartphone,Dual SIM 6GB RAM,69797,4.2
+9b87df9a,Ultima Refrigerator Trip,Ultima,Refrigerator,200L Double Door,41172,4.3
+6537dc3c,Lava Air Conditioner Task,Lava,Air Conditioner,1-ton 2-ton,52630,4.6
+fb3f3206,Samsung Cooktop Interest,Samsung,Cooktop,CopperBurner floating,70872,4.4
+11ee237a,Baltra Smartphone Crime,Baltra,Smartphone,4G Dual SIM,73146,4.8
+9ab05fe1,Pigeon Air Conditioner Rest,Pigeon,Air Conditioner,1-ton 2-ton,26022,3.4
+7c68c5db,Baltra Cooktop Yes,Baltra,Cooktop,Matte CopperBurner,47942,3.3
+ba00f0ba,Ultima Smartphone General,Ultima,Smartphone,Dual SIM 4G,55890,4.0
+0fb4ac55,Faber Chimney Good,Faber,Chimney,Gesture-control Island,50687,4.8
+7ed6c088,Midea Microwave Chair,Midea,Microwave,Solo Grill,42973,2.6
+252d42f3,Samsung Refrigerator Interest,Samsung,Refrigerator,Double Door 200L,70690,3.7
+52f2dbd9,Samsung Air Cooler End,Samsung,Air Cooler,Remote Ice Chamber,32230,5.0
+90a09c29,Midea Cooktop Official,Midea,Cooktop,CopperBurner floating,21091,4.7
+19c75cf4,Samsung Chimney Way,Samsung,Chimney,Auto-CLean Gesture-control,98049,4.1
+9597c55d,Faber Microwave Tax,Faber,Microwave,Solo Convection,88460,3.6
+249489bb,Lava Cooktop Mother,Lava,Cooktop,Matte CopperBurner,47812,3.5
+dafe9152,Transsion Chimney Magazine,Transsion,Chimney,Gesture-control Island,84719,4.5
+b0a09f68,Lava Smartphone Including,Lava,Smartphone,6GB RAM 128GB,26096,3.5
+7fde8af3,Baltra Microwave Painting,Baltra,Microwave,Convection 700W,85412,2.6
+b117ff47,Midea Microwave Camera,Midea,Microwave,Grill 700W,20397,3.7
+6802ebba,Lava Refrigerator Couple,Lava,Refrigerator,200L Cooler,80214,4.4
+a474b957,Faber Microwave Benefit,Faber,Microwave,700W Solo,90232,3.2
+5629145c,Lava Refrigerator These,Lava,Refrigerator,Energy Star 200L,91792,3.7
+b83af3f6,Samsung Air Cooler Various,Samsung,Air Cooler,Remote 35L Tank,12072,3.9
+73b3ba45,LG Smartphone Cold,LG,Smartphone,6GB RAM 4G,74271,3.8
+122d08d2,TCL Cooktop Huge,TCL,Cooktop,Matte CopperBurner,44791,2.9
+520c08e5,TCL Washing Machine Town,TCL,Washing Machine,Inverter 7kg,84587,4.1
+2e5e557d,Samsung Smartphone Few,Samsung,Smartphone,6.5-inch 128GB,70166,3.8
+6ec7d345,TCL Microwave Notice,TCL,Microwave,Grill 700W,24940,3.5
+33208755,Midea Air Conditioner Our,Midea,Air Conditioner,1-ton Non-Inverter,68258,3.5
+b72ca32a,TCL Smartphone Five,TCL,Smartphone,6.5-inch Dual SIM,80989,4.2
+1e3fd857,LG Cooktop Purpose,LG,Cooktop,CopperBurner floating,96033,3.5
+1b6bb38b,Baltra Air Conditioner And,Baltra,Air Conditioner,Inverter 2-ton,77148,4.4
+85ebfef1,TCL Air Conditioner Yard,TCL,Air Conditioner,Non-Inverter 2-ton,21872,3.9
+6dd7b424,Baltra Microwave Through,Baltra,Microwave,Convection 700W,64972,4.3
+eeedc572,LG TV Best,LG,TV,32 inch Smart TV,30963,3.0
+f9272d67,Ultima Cooktop Floor,Ultima,Cooktop,CopperBurner Matte,38057,3.4
+ab3fdcdb,Faber Air Cooler Two,Faber,Air Cooler,35L Tank Remote,68877,2.9
+d93953e9,Samsung Microwave News,Samsung,Microwave,Solo Grill,68653,4.0
+dcfdf0e8,Lava Microwave Police,Lava,Microwave,Solo Grill,61996,2.9
+0d9b0003,Midea Cooktop Enjoy,Midea,Cooktop,floating Matte,39392,4.5
+32e2e2ff,Lava Air Cooler Again,Lava,Air Cooler,Remote 35L Tank,72628,2.7
+16c0c195,Baltra Washing Machine School,Baltra,Washing Machine,Front Load 7kg,33485,4.9
+0f34cdc1,Pigeon Air Conditioner Appear,Pigeon,Air Conditioner,1-ton Non-Inverter,61960,4.7
+e3bf4dcd,Lava Microwave These,Lava,Microwave,Solo Convection,32212,4.1
+0a3b92c2,LG Cooktop Thus,LG,Cooktop,Matte floating,77766,3.8
+f869c0e6,TCL Washing Machine Direction,TCL,Washing Machine,Front Load 7kg,59557,4.9
+12ad87e3,Ultima Cooktop War,Ultima,Cooktop,Matte CopperBurner,70700,3.3
+515057e9,Faber Washing Machine Check,Faber,Washing Machine,Front Load Inverter,81984,3.5
+cc1d2045,Ultima Washing Machine Suffer,Ultima,Washing Machine,Front Load Inverter,80434,2.5
+24107b4c,Pigeon Air Cooler Station,Pigeon,Air Cooler,35L Tank Remote,32922,3.4
+a5c88990,Faber Refrigerator Article,Faber,Refrigerator,Energy Star Double Door,17593,4.5
+2570b385,Transsion Microwave Stage,Transsion,Microwave,700W Solo,94175,4.1
+984f7997,Baltra Washing Machine Group,Baltra,Washing Machine,Front Load 7kg,15629,4.4
+dee80741,Ultima Washing Machine Politics,Ultima,Washing Machine,7kg Front Load,28718,3.1
+b4eea688,Faber Chimney Reach,Faber,Chimney,Auto-CLean Gesture-control,68683,3.3
+ba2ffc26,Lava Air Cooler Way,Lava,Air Cooler,Remote Ice Chamber,24799,4.8
+4dfa6d08,TCL Smartphone Million,TCL,Smartphone,6.5-inch 128GB,96323,3.4
+d6c1c16d,Baltra Washing Machine Sense,Baltra,Washing Machine,Front Load 7kg,12717,3.7
+aef37431,Transsion Chimney Push,Transsion,Chimney,Gesture-control Island,25065,5.0
+e6539784,TCL Washing Machine Across,TCL,Washing Machine,Front Load Inverter,35619,3.6
+da895004,TCL Microwave Event,TCL,Microwave,Grill Convection,64774,2.9
+509d3d92,Ultima Microwave Discuss,Ultima,Microwave,Grill Solo,51690,4.9
+552f4c29,Baltra Air Conditioner Grow,Baltra,Air Conditioner,2-ton Non-Inverter,79479,4.8
+75cde3e3,LG Refrigerator Vote,LG,Refrigerator,200L Energy Star,46051,4.9
+2b072b66,Samsung Washing Machine Admit,Samsung,Washing Machine,Inverter Front Load,72739,3.5
+b9557c71,Baltra Air Conditioner Join,Baltra,Air Conditioner,Non-Inverter 2-ton,48401,3.6
+28f3bef4,Transsion Washing Machine Mother,Transsion,Washing Machine,Inverter 7kg,58791,2.5
+1da5d7d9,Samsung Refrigerator Direction,Samsung,Refrigerator,Energy Star 200L,31927,3.0
+ae5c93e9,Lava Refrigerator Majority,Lava,Refrigerator,Cooler Double Door,86541,3.1
+c55d3560,Transsion Washing Machine Analysis,Transsion,Washing Machine,Inverter 7kg,22131,2.5
+1c0ff33e,LG Cooktop Culture,LG,Cooktop,floating CopperBurner,24025,3.0
+4177151b,Midea TV Area,Midea,TV,32 inch Smart TV,97787,4.5
+94c0c6f4,Ultima Chimney Girl,Ultima,Chimney,Gesture-control Auto-CLean,92768,4.7
+3e32c087,Ultima Air Cooler Step,Ultima,Air Cooler,35L Tank Ice Chamber,68262,5.0
+e7893e0f,TCL Smartphone Under,TCL,Smartphone,4G Dual SIM,77529,3.0
+eae09ea0,Midea Microwave Election,Midea,Microwave,Grill Convection,27833,4.6
+59897df4,Lava Air Conditioner Least,Lava,Air Conditioner,Inverter Non-Inverter,66265,4.3
+6886c2dc,Lava Air Cooler East,Lava,Air Cooler,35L Tank Ice Chamber,96649,4.1
+c4f007d0,Faber Refrigerator Season,Faber,Refrigerator,Cooler 200L,32836,3.8
+eaf99caf,Samsung TV Treatment,Samsung,TV,Smart TV HD,15717,4.9
+3a5f5532,Pigeon TV Politics,Pigeon,TV,LED 32 inch,70027,3.1
+2f989acf,Lava Microwave Future,Lava,Microwave,Convection 700W,75358,3.0
+1208875c,Samsung Cooktop South,Samsung,Cooktop,floating Matte,93065,4.3
+cbbb1c98,Ultima Microwave Relate,Ultima,Microwave,Grill Solo,16792,2.8
+031fff72,Midea Refrigerator Consider,Midea,Refrigerator,Energy Star Cooler,21287,2.7
+3401b201,Baltra Smartphone Heavy,Baltra,Smartphone,4G 6.5-inch,18055,2.9
+8c16bfb3,Samsung Cooktop Medical,Samsung,Cooktop,Matte floating,61527,3.5
+21c46cc2,Pigeon TV Probably,Pigeon,TV,HD LED,18298,3.0
+f495612d,Ultima Washing Machine Fund,Ultima,Washing Machine,7kg Inverter,98009,3.0
+69d6c8fd,Pigeon Microwave From,Pigeon,Microwave,Solo Convection,84423,2.8
+d93da090,Samsung Air Conditioner Direction,Samsung,Air Conditioner,Non-Inverter 2-ton,72335,3.8
+f96cc5cd,Samsung Cooktop Prevent,Samsung,Cooktop,Matte floating,56340,3.4
+225da7e7,Transsion Air Cooler Simple,Transsion,Air Cooler,Remote 35L Tank,66337,4.4
+aa8a1cde,Lava Smartphone Join,Lava,Smartphone,Dual SIM 6.5-inch,41353,3.6
+c23be934,Midea Cooktop Word,Midea,Cooktop,floating CopperBurner,75549,4.6
+2ebfc193,Lava Cooktop Close,Lava,Cooktop,Matte CopperBurner,90805,3.6
+092cb015,LG Chimney Movie,LG,Chimney,Gesture-control Island,61946,3.5
+358d096e,Midea Chimney Degree,Midea,Chimney,Gesture-control Island,50451,2.8
+ec772cb3,LG Smartphone Discover,LG,Smartphone,128GB 6.5-inch,67629,4.3
+29425725,Pigeon Chimney Final,Pigeon,Chimney,Gesture-control Auto-CLean,85403,4.4
+55ddd85b,Transsion Washing Machine Involve,Transsion,Washing Machine,7kg Inverter,99913,4.8
+45e44a3b,Midea Microwave Recent,Midea,Microwave,700W Grill,69467,3.3
+c7223d17,Midea Refrigerator Edge,Midea,Refrigerator,Energy Star Cooler,27303,2.8
+c44ef1dd,Lava Cooktop Environment,Lava,Cooktop,Matte floating,67928,4.2
+7fdd5880,TCL TV Land,TCL,TV,HD LED,78846,5.0
+819fcf93,Baltra Air Conditioner Blood,Baltra,Air Conditioner,1-ton Inverter,63435,4.5
+b211d76a,LG Air Conditioner Though,LG,Air Conditioner,Non-Inverter Inverter,26686,3.8
+5e4eb919,Baltra Refrigerator Black,Baltra,Refrigerator,Double Door Cooler,72879,3.6
+11080af5,TCL Air Cooler Maintain,TCL,Air Cooler,Ice Chamber Remote,83344,3.9
+b9ebb179,Pigeon Air Cooler Onto,Pigeon,Air Cooler,Ice Chamber Remote,75477,3.9
+e7c355d0,Lava TV Until,Lava,TV,Smart TV 32 inch,99969,2.8
+afd76e76,Baltra TV Know,Baltra,TV,Smart TV 32 inch,89948,3.0
+e473c9e2,Midea Air Conditioner Style,Midea,Air Conditioner,Inverter Non-Inverter,44661,3.2
+83812064,Faber Chimney Interest,Faber,Chimney,Auto-CLean Island,41944,4.8
+2235d8ee,Lava Smartphone Woman,Lava,Smartphone,6GB RAM 6.5-inch,37165,4.0
+777d8854,Baltra Microwave Create,Baltra,Microwave,700W Convection,96997,4.4
+d3327c3f,Ultima Refrigerator Little,Ultima,Refrigerator,Energy Star 200L,30418,4.5
+533d4b01,LG Smartphone Miss,LG,Smartphone,Dual SIM 6.5-inch,15747,2.6
+4afcf076,Faber Smartphone Involve,Faber,Smartphone,6.5-inch 128GB,88599,3.5
+01095052,Baltra Air Cooler Peace,Baltra,Air Cooler,35L Tank Ice Chamber,52353,2.6
+928b1a37,Faber Air Cooler Official,Faber,Air Cooler,35L Tank Remote,51236,4.3
+2ab831a7,LG Air Conditioner Find,LG,Air Conditioner,Inverter 1-ton,81365,3.2
+06ad1766,Samsung Smartphone Word,Samsung,Smartphone,128GB 4G,13315,4.0
+a0cce20f,LG Smartphone Today,LG,Smartphone,4G 6.5-inch,92957,2.9
+5c7a9ddf,Faber TV Force,Faber,TV,Smart TV 32 inch,98826,2.8
+9b376e71,Lava Chimney Nothing,Lava,Chimney,Island Gesture-control,96010,3.8
+3a80a99e,Baltra Washing Machine Collection,Baltra,Washing Machine,Front Load 7kg,60425,3.3
+d6fc0d64,Pigeon Chimney Bar,Pigeon,Chimney,Auto-CLean Gesture-control,16527,3.4
+1d3b151b,Samsung Chimney Instead,Samsung,Chimney,Auto-CLean Gesture-control,89682,2.7
+f461260f,Ultima Air Conditioner Standard,Ultima,Air Conditioner,2-ton 1-ton,81304,3.7
+f0a3d090,Lava TV Glass,Lava,TV,32 inch LED,45964,4.6
+4c102434,Lava Smartphone Avoid,Lava,Smartphone,6GB RAM Dual SIM,76067,4.4
+477660a4,Baltra Cooktop Allow,Baltra,Cooktop,Matte CopperBurner,63329,3.2
+4cbe74b0,Baltra Refrigerator Hair,Baltra,Refrigerator,200L Cooler,67940,4.1
+6d14c01f,Midea Air Conditioner Tree,Midea,Air Conditioner,1-ton Non-Inverter,52237,2.8
+7de5faec,Transsion TV Single,Transsion,TV,LED 32 inch,82170,4.3
+e0f67c5c,LG Air Conditioner Defense,LG,Air Conditioner,2-ton Inverter,91657,3.5
+a72fe99f,Midea Washing Machine Form,Midea,Washing Machine,Inverter Front Load,35733,3.7
+18cc40fa,Ultima Chimney Card,Ultima,Chimney,Gesture-control Auto-CLean,96678,4.6
+ba56c4ee,Midea Refrigerator Popular,Midea,Refrigerator,200L Cooler,72183,3.6
+b0f297bc,TCL Microwave Staff,TCL,Microwave,Convection 700W,35012,2.7
+1b126eb1,Baltra Air Conditioner Bag,Baltra,Air Conditioner,Non-Inverter Inverter,39555,4.3
+ca046ffd,Lava Smartphone Near,Lava,Smartphone,6GB RAM Dual SIM,31037,2.8
+2e7c1ae5,Transsion Smartphone Newspaper,Transsion,Smartphone,6GB RAM 4G,62615,4.9
+44e61206,Samsung Cooktop My,Samsung,Cooktop,CopperBurner floating,29572,3.2
+499d0c58,TCL Cooktop Stock,TCL,Cooktop,floating CopperBurner,29625,5.0
+15bbff3b,Transsion TV Any,Transsion,TV,Smart TV HD,98212,3.5
+7dd66a9e,LG Smartphone Believe,LG,Smartphone,6GB RAM 4G,38862,2.8
+00ddc95f,Samsung Washing Machine Above,Samsung,Washing Machine,7kg Front Load,40158,4.0
+fabb045f,Transsion Smartphone Condition,Transsion,Smartphone,Dual SIM 128GB,81690,3.3
+57bb5c79,Ultima TV Toward,Ultima,TV,LED HD,65375,2.9
+4ad63459,Faber Chimney Cold,Faber,Chimney,Auto-CLean Island,87852,3.9
+583623c4,Midea Smartphone Appear,Midea,Smartphone,Dual SIM 128GB,60270,3.3
+653ba8cd,LG Air Conditioner Child,LG,Air Conditioner,2-ton Inverter,30349,3.0
+0fa98030,Lava Air Cooler Forward,Lava,Air Cooler,35L Tank Remote,53044,3.3
+fce463f6,Faber Microwave Human,Faber,Microwave,Convection Grill,60811,3.4
+60decbad,Samsung Smartphone Necessary,Samsung,Smartphone,6GB RAM 4G,93788,3.2
+16e0cbb0,Faber Air Cooler Wind,Faber,Air Cooler,35L Tank Remote,23421,4.9
+e3e499e0,Midea Air Cooler Audience,Midea,Air Cooler,35L Tank Ice Chamber,73883,4.6
+af1a90ec,LG Cooktop Relationship,LG,Cooktop,Matte CopperBurner,94669,3.5
+bb61e3f0,Samsung Microwave Whether,Samsung,Microwave,Solo Convection,89448,4.9
+72f81330,LG Cooktop Yet,LG,Cooktop,floating Matte,40876,4.8
+df97a8b3,Midea Microwave Character,Midea,Microwave,700W Convection,90933,4.6
+759b81f4,Baltra TV Have,Baltra,TV,HD 32 inch,18284,2.5
+7006280a,Baltra Microwave Practice,Baltra,Microwave,Grill 700W,31817,2.9
+8accc497,Baltra Smartphone Break,Baltra,Smartphone,4G 6.5-inch,92275,3.1
+94f553f4,Ultima Smartphone Four,Ultima,Smartphone,6GB RAM Dual SIM,15185,3.5
+03b7e32d,Baltra Cooktop No,Baltra,Cooktop,CopperBurner Matte,33559,3.4
+9c6f5358,Faber Cooktop Develop,Faber,Cooktop,Matte CopperBurner,12918,4.7
+f454fa6f,Faber TV Bill,Faber,TV,HD 32 inch,90262,3.4
+6b269064,Midea Microwave Though,Midea,Microwave,700W Convection,23487,3.6
+2cdfb1dc,Lava Smartphone Along,Lava,Smartphone,4G Dual SIM,79951,2.6
+d13e2c83,Transsion Refrigerator Your,Transsion,Refrigerator,Cooler 200L,35149,2.7
+1fd91674,Pigeon Cooktop Recently,Pigeon,Cooktop,CopperBurner Matte,26393,2.6
+159d4731,Lava Air Conditioner Money,Lava,Air Conditioner,Non-Inverter 1-ton,37656,4.9
+17c34e20,Pigeon Air Cooler Responsibility,Pigeon,Air Cooler,Remote 35L Tank,67436,4.0
+38ca5b6b,Faber TV May,Faber,TV,LED 32 inch,21989,4.9
+6decfc0c,Lava Refrigerator Term,Lava,Refrigerator,200L Energy Star,40401,4.7
+7c40137c,Pigeon Cooktop Really,Pigeon,Cooktop,Matte CopperBurner,30657,3.4
+cd3ecf94,Lava Cooktop White,Lava,Cooktop,Matte floating,30267,3.7
+48f256ba,Midea Refrigerator Detail,Midea,Refrigerator,Cooler Energy Star,50914,2.8
+2811bc43,Lava Chimney Marriage,Lava,Chimney,Gesture-control Auto-CLean,83755,2.7
+c8e94e65,Ultima Refrigerator Today,Ultima,Refrigerator,Double Door 200L,61292,4.2
+b9464f09,Samsung Refrigerator Marriage,Samsung,Refrigerator,200L Energy Star,97034,2.7
+b245c1aa,TCL Cooktop Discussion,TCL,Cooktop,Matte floating,45151,4.2
+1b1ab676,TCL Refrigerator Reveal,TCL,Refrigerator,Energy Star Cooler,45130,2.7
+2780d237,Faber Refrigerator About,Faber,Refrigerator,Cooler Energy Star,42867,2.8
+aa4bab9a,Baltra Refrigerator Religious,Baltra,Refrigerator,Double Door Cooler,72109,2.8
+c1fb0ea0,Faber Air Cooler Subject,Faber,Air Cooler,Remote Ice Chamber,84394,3.3
+cf4fff8e,TCL Chimney Computer,TCL,Chimney,Island Auto-CLean,91180,4.2
+5e505e4d,Lava Microwave Still,Lava,Microwave,Convection 700W,89390,3.6
+bd38cba4,Transsion Chimney That,Transsion,Chimney,Auto-CLean Island,37678,2.9
+f45a9d43,Baltra Microwave Major,Baltra,Microwave,700W Convection,59940,3.6
+36ba7614,Midea Microwave Radio,Midea,Microwave,Solo 700W,75194,2.6
+99973820,LG Refrigerator Baby,LG,Refrigerator,200L Energy Star,97070,4.1
+845c2189,Faber Chimney Eight,Faber,Chimney,Island Gesture-control,75696,4.8
+a0489aac,Samsung Cooktop Pretty,Samsung,Cooktop,Matte CopperBurner,48399,3.5
+3cc0e5e6,Midea Smartphone Human,Midea,Smartphone,6GB RAM 6.5-inch,81322,4.4
+95282786,Baltra Chimney Born,Baltra,Chimney,Gesture-control Island,90263,2.6
+ec1fc2d3,Pigeon Cooktop Less,Pigeon,Cooktop,Matte floating,83924,2.7
+5626eeb3,Lava Smartphone Wife,Lava,Smartphone,Dual SIM 4G,48211,3.0
+c3c86018,LG Cooktop Discover,LG,Cooktop,Matte floating,44211,3.7
+b7af1118,Pigeon Microwave Under,Pigeon,Microwave,Convection Solo,76376,3.9
+5b0a0ee0,Ultima Air Conditioner Bad,Ultima,Air Conditioner,Inverter 1-ton,28872,3.3
+a7a143ad,Pigeon Air Cooler Thus,Pigeon,Air Cooler,35L Tank Ice Chamber,33902,4.0
+34bd90dc,Ultima Microwave Fill,Ultima,Microwave,Convection 700W,90935,5.0
+c70aec7d,Ultima Refrigerator Minute,Ultima,Refrigerator,Energy Star Double Door,51124,4.9
+5074bf59,Faber Smartphone Cost,Faber,Smartphone,6GB RAM 128GB,72605,4.2
+aa72303e,Baltra Smartphone Very,Baltra,Smartphone,6GB RAM 4G,60551,3.5
+541e0458,Pigeon Microwave Leader,Pigeon,Microwave,Grill Solo,13601,4.4
+5d37dc6e,Transsion Microwave Box,Transsion,Microwave,Grill Convection,19486,3.1
+fb76df07,Ultima Smartphone Plan,Ultima,Smartphone,6GB RAM 128GB,80809,4.2
+b3c0e7cf,Baltra Washing Machine Consumer,Baltra,Washing Machine,7kg Inverter,89262,3.9
+517fa833,Pigeon Chimney That,Pigeon,Chimney,Auto-CLean Gesture-control,87079,3.0
+a0ea84e1,LG Microwave Become,LG,Microwave,Grill Convection,25324,3.7
+44a7f6f0,Faber Air Conditioner Ask,Faber,Air Conditioner,1-ton 2-ton,37461,2.7
+27f42714,Samsung Air Conditioner Decision,Samsung,Air Conditioner,Inverter 2-ton,95426,3.6
+0384be85,Samsung TV College,Samsung,TV,HD 32 inch,13743,5.0
+7de4c4b6,Pigeon Microwave Federal,Pigeon,Microwave,Convection 700W,89784,3.3
+66a0f670,Samsung Smartphone Look,Samsung,Smartphone,6.5-inch 4G,48495,4.5
+dd3c0a4b,Transsion Washing Machine Science,Transsion,Washing Machine,7kg Inverter,13524,3.2
+cafe6c16,Pigeon Washing Machine Easy,Pigeon,Washing Machine,Front Load 7kg,46914,4.0
+172dfe62,Lava Air Cooler Former,Lava,Air Cooler,Remote 35L Tank,84207,2.6
+8f86d0c7,Baltra TV Eat,Baltra,TV,LED Smart TV,35694,4.1
+358e57a8,Transsion Air Cooler Sea,Transsion,Air Cooler,35L Tank Ice Chamber,53514,3.2
+5edffe66,Faber Air Conditioner Eat,Faber,Air Conditioner,1-ton 2-ton,17255,3.6
+23568e73,Faber Smartphone Discussion,Faber,Smartphone,128GB 6.5-inch,88843,3.2
+e0a39f08,Lava TV Civil,Lava,TV,LED HD,54943,3.8
+c1e44a99,Faber Air Cooler Mouth,Faber,Air Cooler,35L Tank Remote,80746,4.6
+9488cfb2,Midea TV Analysis,Midea,TV,32 inch LED,94357,4.9
+e61f72b2,Samsung Air Conditioner Cause,Samsung,Air Conditioner,Inverter 1-ton,92542,4.1
+9639afeb,Midea Smartphone Red,Midea,Smartphone,128GB Dual SIM,57285,2.8
+9b3a1b3a,Faber Cooktop Put,Faber,Cooktop,CopperBurner floating,85147,2.6
+7740df97,LG Refrigerator Seat,LG,Refrigerator,Double Door 200L,54044,3.7
+a3af67ee,Faber Refrigerator Ready,Faber,Refrigerator,200L Energy Star,98714,4.0
+56d3cdf3,TCL Refrigerator Difference,TCL,Refrigerator,Double Door Cooler,49825,3.4
+1651eaf8,Samsung Air Conditioner Case,Samsung,Air Conditioner,2-ton Inverter,54485,3.4
+96b7d4e5,Midea Chimney Society,Midea,Chimney,Auto-CLean Gesture-control,19532,2.6
+0ddef331,Baltra Microwave Here,Baltra,Microwave,700W Grill,25727,4.4
+b419fca5,Baltra Air Cooler Every,Baltra,Air Cooler,35L Tank Ice Chamber,84880,2.7
+92a378bf,Midea Microwave Process,Midea,Microwave,Convection Solo,45609,4.2
+d338450b,LG Smartphone Magazine,LG,Smartphone,6GB RAM 4G,85300,4.5
+85b108c5,Ultima Cooktop Account,Ultima,Cooktop,Matte floating,83181,4.4
+caba31f4,Samsung Chimney Short,Samsung,Chimney,Island Gesture-control,27219,4.9
+f3667de1,Samsung TV Various,Samsung,TV,HD LED,49168,4.5
+16b3d376,Transsion Air Conditioner Make,Transsion,Air Conditioner,Inverter 1-ton,47953,4.2
+393d1403,Baltra Washing Machine Something,Baltra,Washing Machine,Front Load 7kg,98054,2.9
+4a037985,Transsion Cooktop Bank,Transsion,Cooktop,floating Matte,63441,4.2
+f319505c,Pigeon Smartphone Day,Pigeon,Smartphone,Dual SIM 6.5-inch,52038,2.6
+df01a208,Ultima Chimney Officer,Ultima,Chimney,Island Auto-CLean,89796,4.9
+95899868,Samsung Chimney Care,Samsung,Chimney,Auto-CLean Gesture-control,64759,5.0
+725c6e8a,Ultima Washing Machine Indeed,Ultima,Washing Machine,Front Load 7kg,10984,3.2
+ad2436b5,Baltra Chimney Money,Baltra,Chimney,Auto-CLean Island,89182,4.6
+c1079312,TCL TV Activity,TCL,TV,32 inch HD,50247,4.9
+5e64bb8f,LG Air Cooler Prepare,LG,Air Cooler,35L Tank Remote,38863,2.9
+086d24e0,Baltra Cooktop On,Baltra,Cooktop,CopperBurner floating,16876,5.0
+3f3863af,Faber Washing Machine End,Faber,Washing Machine,7kg Inverter,23268,3.8
+34b8a92d,Baltra Air Cooler Goal,Baltra,Air Cooler,Ice Chamber Remote,19629,4.9
+cd6a4d46,Ultima TV Response,Ultima,TV,32 inch LED,36057,4.5
+a2a1d7be,Ultima Microwave Thousand,Ultima,Microwave,Convection 700W,43349,4.2
+c1865a1e,Ultima Air Cooler Democrat,Ultima,Air Cooler,35L Tank Remote,62092,4.3
+6c33d0ab,Midea Refrigerator Outside,Midea,Refrigerator,Cooler 200L,85823,2.6
+75709af0,Faber Refrigerator Owner,Faber,Refrigerator,Double Door 200L,40384,2.7
+e90948ea,Midea Microwave Paper,Midea,Microwave,700W Convection,26092,3.4
+b7e4c7aa,Pigeon Chimney So,Pigeon,Chimney,Auto-CLean Gesture-control,57779,4.5
+65226425,TCL Refrigerator Candidate,TCL,Refrigerator,200L Energy Star,34965,4.6
+131d8bd4,Faber Air Cooler Begin,Faber,Air Cooler,35L Tank Ice Chamber,29393,2.9
+6761c245,Pigeon Microwave Ok,Pigeon,Microwave,Solo 700W,99892,4.6
+e99847ae,Faber Air Cooler Avoid,Faber,Air Cooler,Remote Ice Chamber,58949,2.7
+f93fb2dc,Ultima Air Conditioner Would,Ultima,Air Conditioner,2-ton Inverter,27846,4.5
+af104b2e,LG Cooktop Republican,LG,Cooktop,floating Matte,59138,4.1
+4218f3ee,Baltra Chimney Change,Baltra,Chimney,Auto-CLean Gesture-control,13239,3.2
+f1cb3a5c,Samsung Cooktop Parent,Samsung,Cooktop,Matte CopperBurner,74574,2.9
+467f74ee,Lava Smartphone Turn,Lava,Smartphone,6GB RAM Dual SIM,20053,4.8
+c4f2c597,Ultima Refrigerator Law,Ultima,Refrigerator,Double Door 200L,14742,2.9
+9bcd4766,Pigeon Cooktop Direction,Pigeon,Cooktop,CopperBurner floating,86852,4.5
+7080da29,Lava Microwave Various,Lava,Microwave,700W Grill,84590,4.9
+1d703f99,Baltra Cooktop Response,Baltra,Cooktop,floating CopperBurner,78790,4.1
+16c233ca,Faber Smartphone Table,Faber,Smartphone,128GB 4G,70289,4.7
+5d7c1b6e,LG Chimney Fund,LG,Chimney,Auto-CLean Gesture-control,91104,4.0
+349a219a,Transsion TV Suddenly,Transsion,TV,LED HD,65901,3.1
+f8018b16,LG Refrigerator Ahead,LG,Refrigerator,Cooler Energy Star,52905,3.8
+637e6aa3,Lava Microwave Stock,Lava,Microwave,Convection 700W,44988,3.7
+f4ec99ac,Faber Washing Machine Get,Faber,Washing Machine,7kg Inverter,81764,3.1
+b59fd3bb,LG Air Cooler Join,LG,Air Cooler,Ice Chamber 35L Tank,97206,2.8
+a5877f7b,Lava Smartphone Each,Lava,Smartphone,6GB RAM 6.5-inch,16596,4.6
+3c1f10a5,Pigeon Air Cooler Rich,Pigeon,Air Cooler,Ice Chamber Remote,45785,3.1
+66df45b6,Transsion Smartphone Hard,Transsion,Smartphone,128GB 6GB RAM,42394,3.1
+c547ab8b,Ultima Chimney Artist,Ultima,Chimney,Gesture-control Island,22716,4.5
+7540eff6,Samsung Microwave Get,Samsung,Microwave,Grill 700W,66912,2.6
+f20d6021,Lava Air Conditioner Prepare,Lava,Air Conditioner,1-ton Non-Inverter,76308,4.9
+8e974911,Lava Chimney According,Lava,Chimney,Island Gesture-control,41548,3.1
+a7873a55,LG Washing Machine Per,LG,Washing Machine,7kg Front Load,70446,3.6
+e72197e8,Samsung Air Conditioner Among,Samsung,Air Conditioner,Non-Inverter 1-ton,17841,4.8
+7f2c48a7,Lava Smartphone Organization,Lava,Smartphone,4G Dual SIM,87792,4.0
+9cedc10f,Pigeon Smartphone Consumer,Pigeon,Smartphone,6GB RAM 6.5-inch,57615,4.0
+88219607,Samsung Air Cooler Writer,Samsung,Air Cooler,35L Tank Remote,35344,4.4
+90b8cb13,LG TV Heart,LG,TV,LED Smart TV,41196,2.8
+9f03ff8b,Faber Smartphone Cost,Faber,Smartphone,6GB RAM 6.5-inch,21039,3.7
+a4d2bf3c,TCL Washing Machine Really,TCL,Washing Machine,7kg Inverter,11683,3.8
+8df72623,Ultima Air Conditioner Face,Ultima,Air Conditioner,2-ton Inverter,19518,4.6
+8586230d,LG Refrigerator Present,LG,Refrigerator,200L Energy Star,98725,4.0
+94faf927,Lava Microwave Democrat,Lava,Microwave,Solo Grill,12365,3.4
+12c6163c,LG Chimney Her,LG,Chimney,Gesture-control Island,49014,2.6
+595dce42,Transsion Washing Machine Have,Transsion,Washing Machine,Front Load Inverter,39239,4.5
+fa035e10,Ultima Refrigerator Customer,Ultima,Refrigerator,Cooler 200L,88103,4.6
+e792d3ce,TCL Air Conditioner Sit,TCL,Air Conditioner,2-ton Inverter,17695,4.3
+595e1925,Ultima Air Cooler Money,Ultima,Air Cooler,Remote 35L Tank,53745,4.3
+b0b74b52,LG TV College,LG,TV,32 inch LED,16276,3.1
+f92f4747,Baltra Chimney Over,Baltra,Chimney,Gesture-control Island,16279,2.7
+fbde2c73,Transsion Refrigerator Five,Transsion,Refrigerator,Energy Star 200L,29840,4.6
+56a73551,Samsung TV Product,Samsung,TV,Smart TV HD,99436,4.7
+e894e3be,LG Air Cooler Party,LG,Air Cooler,35L Tank Remote,83864,3.4
+1b095de1,Ultima Cooktop Current,Ultima,Cooktop,Matte floating,90552,3.8
+06a1b9ca,Ultima Chimney Participant,Ultima,Chimney,Gesture-control Auto-CLean,95928,4.2
+7add4be3,LG Air Conditioner Be,LG,Air Conditioner,1-ton 2-ton,58831,3.4
+fa385764,Pigeon Cooktop Smile,Pigeon,Cooktop,Matte floating,93289,3.5
+e79f8a52,TCL Air Conditioner Work,TCL,Air Conditioner,Non-Inverter Inverter,61723,5.0
+5183649c,Samsung Microwave Sure,Samsung,Microwave,Convection 700W,85090,5.0
+cd278864,LG Smartphone Skill,LG,Smartphone,6.5-inch 6GB RAM,12704,4.0
+8091ddcc,TCL Washing Machine Life,TCL,Washing Machine,Inverter Front Load,49553,3.3
+d1594e7b,Baltra Cooktop South,Baltra,Cooktop,floating CopperBurner,13092,4.3
+9f8d5b86,Pigeon Air Cooler Step,Pigeon,Air Cooler,Remote Ice Chamber,38412,3.4
+220374f7,Ultima Air Conditioner Various,Ultima,Air Conditioner,2-ton 1-ton,72083,4.4
+2f8334db,Samsung Smartphone Work,Samsung,Smartphone,Dual SIM 6.5-inch,98099,4.3
+0cf42113,Lava Air Cooler Technology,Lava,Air Cooler,Ice Chamber Remote,96350,3.1
+b6b3e021,Transsion Cooktop Professor,Transsion,Cooktop,floating Matte,33197,4.9
+40091361,Samsung TV Bank,Samsung,TV,HD 32 inch,10864,4.5
+dab1b794,Lava Microwave Able,Lava,Microwave,700W Solo,28512,3.9
+adb44e71,TCL Cooktop Second,TCL,Cooktop,CopperBurner Matte,34409,2.8
+2972e819,Baltra Refrigerator Cup,Baltra,Refrigerator,Cooler 200L,99939,3.4
+522006bb,Ultima TV Order,Ultima,TV,Smart TV HD,95169,4.6
+024fcfe6,Transsion Chimney Newspaper,Transsion,Chimney,Island Auto-CLean,55655,3.4
+3931c6f9,Ultima TV Certainly,Ultima,TV,Smart TV 32 inch,65689,4.2
+972e8662,Lava TV Class,Lava,TV,Smart TV 32 inch,36961,4.2
+a4ad5385,TCL Air Conditioner Those,TCL,Air Conditioner,Non-Inverter 2-ton,82641,4.3
+8c292b5a,Lava Air Conditioner Reality,Lava,Air Conditioner,1-ton Non-Inverter,34227,3.7
+e124dce1,Midea Microwave Against,Midea,Microwave,Convection Solo,58974,3.7
+cf5632fc,TCL Chimney Suddenly,TCL,Chimney,Auto-CLean Gesture-control,46228,2.7
+3a55e3cc,Samsung Smartphone Likely,Samsung,Smartphone,6GB RAM 4G,57229,3.6
+9f9d8950,TCL Air Conditioner Debate,TCL,Air Conditioner,Inverter Non-Inverter,58037,4.6
+3c4be0a8,Ultima Refrigerator Thus,Ultima,Refrigerator,Cooler Energy Star,48813,2.7
+f6fdde7c,Midea Air Cooler Message,Midea,Air Cooler,Ice Chamber 35L Tank,12390,2.9
+15a7d2d8,Transsion Air Conditioner Relate,Transsion,Air Conditioner,Inverter 1-ton,15515,3.0
+dab9f09e,Pigeon Microwave Probably,Pigeon,Microwave,Convection Grill,11951,2.5
+5b97156b,Faber Chimney Least,Faber,Chimney,Auto-CLean Gesture-control,42066,3.0
+e64aa98f,Samsung Air Cooler Third,Samsung,Air Cooler,35L Tank Remote,63182,3.8
+4548b445,Lava Microwave National,Lava,Microwave,Grill Solo,39320,4.3
+a2fa8c8f,Samsung TV Where,Samsung,TV,HD LED,72748,2.6
+52c4b291,LG Air Conditioner Power,LG,Air Conditioner,Non-Inverter Inverter,92567,4.2
+2a204dc0,LG Refrigerator Most,LG,Refrigerator,Energy Star 200L,81547,3.1
+4c5ec9d6,Faber Refrigerator Control,Faber,Refrigerator,200L Energy Star,22616,3.3
+b37ee992,Pigeon Air Conditioner Size,Pigeon,Air Conditioner,1-ton Inverter,68020,4.0
+de7a71c5,Baltra Air Conditioner Head,Baltra,Air Conditioner,Inverter 2-ton,60428,4.5
+2db39208,LG Washing Machine Recent,LG,Washing Machine,Front Load Inverter,67515,2.7
+96d024f1,Midea Cooktop Teacher,Midea,Cooktop,CopperBurner Matte,45800,4.3
+b54bbb85,LG Washing Machine Pull,LG,Washing Machine,7kg Front Load,61208,4.9
+7ecbee84,Lava Chimney Section,Lava,Chimney,Island Auto-CLean,44252,4.4
+6140c68b,Transsion Air Cooler Accept,Transsion,Air Cooler,Remote 35L Tank,44097,3.2
+14525bfa,Baltra Air Conditioner Yard,Baltra,Air Conditioner,Inverter 1-ton,88967,4.2
+70114143,Samsung Microwave Water,Samsung,Microwave,Grill Solo,40298,4.4
+036df75a,Ultima Microwave Per,Ultima,Microwave,700W Solo,16783,4.3
+5d278388,Midea Air Conditioner Discuss,Midea,Air Conditioner,Non-Inverter Inverter,27411,3.1
+cf8aea62,Baltra Cooktop Art,Baltra,Cooktop,CopperBurner Matte,46168,4.1
+1051bfee,TCL Cooktop Find,TCL,Cooktop,CopperBurner Matte,69813,4.2
+648cea1b,LG Air Cooler A,LG,Air Cooler,Ice Chamber 35L Tank,85797,3.0
+058a7f3c,Midea Air Cooler Majority,Midea,Air Cooler,Remote Ice Chamber,50845,3.0
+10303f23,Midea Air Cooler Ask,Midea,Air Cooler,35L Tank Ice Chamber,93497,4.1
+830d1616,Transsion Chimney Beautiful,Transsion,Chimney,Gesture-control Auto-CLean,80431,4.5
+fc792cde,LG Chimney Project,LG,Chimney,Auto-CLean Island,68263,4.8
+f80d58e8,Samsung Chimney Care,Samsung,Chimney,Auto-CLean Gesture-control,94963,4.4
+11af39e3,Baltra Washing Machine Seven,Baltra,Washing Machine,Front Load Inverter,18748,3.5
+8b6db425,Lava Cooktop Cultural,Lava,Cooktop,CopperBurner Matte,28946,4.9
+93fa45f1,Lava Air Conditioner Build,Lava,Air Conditioner,Non-Inverter 2-ton,98205,2.7
+19b783dd,Midea Microwave Technology,Midea,Microwave,700W Convection,53790,4.9
+a639fae4,Samsung TV It,Samsung,TV,LED Smart TV,46945,2.7
+9e282434,LG Refrigerator Top,LG,Refrigerator,Energy Star Cooler,93515,4.6
+e01027a1,TCL Smartphone Newspaper,TCL,Smartphone,6.5-inch 4G,99233,4.1
+0420200e,Transsion Refrigerator Now,Transsion,Refrigerator,Double Door 200L,13326,3.0
+fce2cfc7,Midea Chimney Alone,Midea,Chimney,Gesture-control Auto-CLean,99000,4.0
+56545574,Baltra Cooktop Appear,Baltra,Cooktop,CopperBurner Matte,18066,3.5
+d9fabb1d,Baltra Cooktop Another,Baltra,Cooktop,floating Matte,63475,3.6
+1fea05d4,Faber TV Technology,Faber,TV,Smart TV HD,99961,4.6
+d0bdd6c6,Baltra Washing Machine Tax,Baltra,Washing Machine,Inverter 7kg,43832,3.1
+81ed414d,Transsion Air Conditioner Build,Transsion,Air Conditioner,Non-Inverter 1-ton,51520,3.9
+10fdb333,Transsion Washing Machine Understand,Transsion,Washing Machine,Front Load Inverter,62993,3.2
+01849eee,TCL Washing Machine Along,TCL,Washing Machine,Front Load 7kg,96055,5.0
+ae522cd4,TCL Washing Machine Idea,TCL,Washing Machine,Front Load Inverter,64921,3.9
+5e480918,Baltra Washing Machine Inside,Baltra,Washing Machine,Inverter Front Load,55434,4.1
+7053a1dd,Transsion Smartphone Strategy,Transsion,Smartphone,6.5-inch Dual SIM,21436,4.5
+c95e0330,Midea Air Conditioner Couple,Midea,Air Conditioner,Inverter Non-Inverter,46064,4.2
+2a971420,Ultima TV Something,Ultima,TV,Smart TV 32 inch,96829,4.1
+c504f755,Lava Refrigerator Year,Lava,Refrigerator,Cooler Double Door,58605,3.1
+3bee5432,TCL Smartphone Social,TCL,Smartphone,6.5-inch Dual SIM,18291,2.8
+d4fec973,Faber Chimney Election,Faber,Chimney,Island Auto-CLean,77146,3.7
+a17e5bca,Faber Cooktop Near,Faber,Cooktop,CopperBurner Matte,20150,2.8
+4eb295cd,TCL Air Conditioner Mrs,TCL,Air Conditioner,Non-Inverter 2-ton,94641,5.0
+b263707b,Ultima TV Reach,Ultima,TV,Smart TV HD,32839,2.7
+688f3f09,LG Microwave Yard,LG,Microwave,Convection Solo,61037,2.6
+8fdac88e,TCL Microwave Film,TCL,Microwave,Grill Solo,48383,4.0
+147bac54,TCL Chimney Ball,TCL,Chimney,Island Auto-CLean,76558,4.8
+96da513a,LG Washing Machine Any,LG,Washing Machine,7kg Front Load,84416,4.6
+f8e4fb34,LG Chimney Employee,LG,Chimney,Auto-CLean Island,45545,2.8
+3db8c70f,Midea Refrigerator Such,Midea,Refrigerator,Energy Star Cooler,12390,4.5
+4f91f8fe,Baltra Air Conditioner College,Baltra,Air Conditioner,Inverter Non-Inverter,76100,4.0
+15fd117d,Faber Cooktop Need,Faber,Cooktop,CopperBurner floating,46382,2.6
+d38f016d,Transsion Microwave Case,Transsion,Microwave,Solo 700W,34035,3.7
+00ae8ba2,TCL Smartphone Full,TCL,Smartphone,6.5-inch Dual SIM,90313,4.2
+6035519d,Lava Microwave Break,Lava,Microwave,Convection Solo,94189,4.8
+b8ac00f9,Midea Smartphone High,Midea,Smartphone,6.5-inch 6GB RAM,91605,4.2
+193dda4a,Baltra Washing Machine Above,Baltra,Washing Machine,7kg Inverter,46701,4.6
+7680a630,Ultima Air Conditioner Her,Ultima,Air Conditioner,Inverter 2-ton,90013,4.4
+7337301f,Lava Air Conditioner Guess,Lava,Air Conditioner,2-ton 1-ton,38399,4.0
+3a40c1a9,Lava Washing Machine Admit,Lava,Washing Machine,7kg Inverter,94347,2.6
+f7e253d4,Transsion TV Lawyer,Transsion,TV,32 inch HD,94496,4.9
+30fbb745,Samsung Refrigerator Western,Samsung,Refrigerator,Energy Star Double Door,15227,3.5
+553ca4e6,Midea Microwave Certain,Midea,Microwave,Solo 700W,38988,3.7
+538a4a2d,Ultima Air Conditioner Perhaps,Ultima,Air Conditioner,Inverter Non-Inverter,46599,3.5
+a799369f,Pigeon Air Conditioner Interesting,Pigeon,Air Conditioner,Non-Inverter 2-ton,32279,3.4
+f0c9cbff,Samsung Air Cooler Walk,Samsung,Air Cooler,Ice Chamber Remote,49249,2.5
+41f5595b,LG Smartphone Organization,LG,Smartphone,6.5-inch 128GB,55538,2.9
+da40dc19,Faber Refrigerator Notice,Faber,Refrigerator,Energy Star Double Door,76069,4.5
+dfd232cc,Transsion Air Conditioner Career,Transsion,Air Conditioner,1-ton 2-ton,91563,3.6
+2595a51e,Samsung Washing Machine Six,Samsung,Washing Machine,Inverter Front Load,42990,3.8
+4778b29c,Ultima Air Conditioner Describe,Ultima,Air Conditioner,Inverter Non-Inverter,92420,3.6
+7b2ecc2f,Pigeon Chimney Natural,Pigeon,Chimney,Gesture-control Auto-CLean,31365,3.4
+9dcf8db2,Baltra Cooktop Watch,Baltra,Cooktop,Matte CopperBurner,27286,4.0
+ba6b9edd,TCL Chimney House,TCL,Chimney,Island Auto-CLean,91783,4.8
+508b774c,Ultima Air Conditioner Local,Ultima,Air Conditioner,2-ton 1-ton,87692,4.5
+4556e6f4,Midea Cooktop Task,Midea,Cooktop,Matte CopperBurner,62236,3.4
+68bda325,Baltra Microwave Story,Baltra,Microwave,Grill Convection,70660,5.0
+baf76fbe,Transsion Air Conditioner My,Transsion,Air Conditioner,1-ton Inverter,74645,4.4
+174b16b5,Ultima Chimney Full,Ultima,Chimney,Auto-CLean Island,50663,3.2
+acd78257,Baltra Air Cooler Take,Baltra,Air Cooler,Remote Ice Chamber,79121,3.7
+f9ba8ee6,Lava Refrigerator Back,Lava,Refrigerator,Energy Star 200L,28062,3.9
+0a168adb,Ultima Air Cooler Challenge,Ultima,Air Cooler,35L Tank Remote,99636,4.6
+6d90ad69,Faber Microwave Radio,Faber,Microwave,Solo Convection,25981,3.0
+395c24a7,Transsion TV Total,Transsion,TV,Smart TV HD,34379,3.5
+a4d2bb58,LG Air Cooler North,LG,Air Cooler,35L Tank Remote,49836,4.8
+ae3acfd1,Pigeon Air Cooler Position,Pigeon,Air Cooler,Ice Chamber Remote,20264,4.1
+c781bf8a,Ultima Smartphone Series,Ultima,Smartphone,6.5-inch Dual SIM,62535,4.1
+ca7de23b,Ultima Cooktop Over,Ultima,Cooktop,floating Matte,22708,4.2
+5cc4e2cd,Ultima Chimney Yes,Ultima,Chimney,Island Auto-CLean,95112,3.2
+097aa76d,Transsion Air Conditioner Indeed,Transsion,Air Conditioner,Non-Inverter 2-ton,78677,4.5
+022a2d21,LG TV Race,LG,TV,HD LED,15669,3.5
+436a0faa,Samsung Refrigerator Reality,Samsung,Refrigerator,Energy Star Cooler,63342,3.7
+8adc3358,Midea Refrigerator Tonight,Midea,Refrigerator,Cooler 200L,51682,3.4
+15197a40,Transsion Refrigerator Safe,Transsion,Refrigerator,Cooler Double Door,53014,3.6
+2c38846b,Transsion Cooktop Mention,Transsion,Cooktop,CopperBurner Matte,56251,3.4
+88d92c1f,Transsion Cooktop Rich,Transsion,Cooktop,CopperBurner Matte,31290,2.5
+969c69ea,Ultima Washing Machine Care,Ultima,Washing Machine,Inverter 7kg,28061,3.8
+0d125c02,Midea Refrigerator Fund,Midea,Refrigerator,Energy Star Cooler,10463,4.0
+8c90681b,Samsung Refrigerator Marriage,Samsung,Refrigerator,Double Door Energy Star,84750,2.8

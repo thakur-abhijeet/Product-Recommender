@@ -5,8 +5,9 @@ from faker import Faker
 
 fake = Faker("en_US")
 
-brands = ["Samsung", "LG", "TCL", "Baltra", "Lava", "Ultima", "Transsion"]
-categories = ["Smartphone", "TV", "Refrigerator", "Microwave", "Air Cooler", "Washing Machine"]
+brands = ["Samsung", "LG", "TCL", "Baltra", "Lava", "Ultima", "Transsion","Midea", "Faber", "Pigeon"]
+categories = ["Smartphone", "TV", "Refrigerator", "Microwave", "Air Cooler", "Washing Machine", "Air Conditioner","Chimney", "Cooktop"]
+
 attributes_pool = {
     "Smartphone": ["4G", "Dual SIM", "128GB", "6GB RAM", "6.5-inch"],
     "TV": ["LED", "32 inch", "Smart TV", "HD"],
@@ -14,9 +15,12 @@ attributes_pool = {
     "Microwave": ["Convection", "Grill", "Solo", "700W"],
     "Air Cooler": ["35L Tank", "Remote", "Ice Chamber"],
     "Washing Machine": ["Front Load", "7kg", "Inverter"],
+    "Air Conditioner": ["Inverter", "Non-Inverter", "1-ton", "2-ton"],
+    "Chimney":["Auto-CLean", "Island", "Gesture-control"],
+    "Cooktop":["Matte", "CopperBurner", "floating"]
 }
 
-def gen_products(num=50):
+def gen_products(num=500):
     rows = []
     for _ in range(num):
         pid = str(uuid.uuid4())[:8]
@@ -30,7 +34,7 @@ def gen_products(num=50):
     df = pd.DataFrame(rows, columns=["product_id","title","brand","category","attributes","price","rating"])
     df.to_csv("~/Product-Recommender/recommendation_system_ml/data/products.csv", index=False)
 
-def gen_ratings(products, users=20):
+def gen_ratings(products, users=400):
     rows = []
     user_ids = [f"U{1000+i}" for i in range(users)]
     for uid in user_ids:
